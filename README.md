@@ -1,3 +1,3 @@
-You should probably use this instead: https://github.com/gf3/IRC-js
+Forked from: https://github.com/gf3/IRC-js
 
-I'm doing some changes here which I hope can be incorporated to that main one.
+Made some changes that I needed - would be nice to get the changes to gf3's IRC-js one day. 
