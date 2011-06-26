@@ -1,4 +1,4 @@
-{ "name" : "irc-js"
+{ "name" : "iles-forked-irc-js"
 , "description": "An IRC library for node.js"
 , "author" : "Gianni Chiappetta <gianni@runlevel6.org> (http://gf3.ca)"
 , "contributors":
@@ -7,9 +7,10 @@
   , "temp01"
   , "Diogo Gomes <maushu@graphnode.com> (http://www.graphnode.com/)"
   , "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)"
+  , "Ilkka Huotari <ilkkah@gmail.com> (http://ilkkah.com)"
   ]
-, "homepage" : "http://gf3.github.com/IRC-js/"
-, "version" : "0.2.21"
+, "homepage" : "https://github.com/ile/iles-forked-irc-js"
+, "version" : "0.1.0"
 , "main" : "./lib/irc"
 , "directories" : { "lib" : "./lib", "node_libraries" : "./node_libraries" }
 , "engines" : [ "node >=0.2.0" ]
@@ -26,7 +27,7 @@
   }
 , "repository" :
   { "type" : "git"
-  , "url" : "https://gf3@github.com/gf3/IRC-js.git"
+  , "url" : "https://ile@github.com/ile/iles-forked-irc-js.git"
   }
 , "license" :
   { "type" : "Public Domain"
