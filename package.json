@@ -10,7 +10,7 @@
   , "Ilkka Huotari <ilkkah@gmail.com> (http://ilkkah.com)"
   ]
 , "homepage" : "https://github.com/ile/iles-forked-irc-js"
-, "version" : "0.1.0"
+, "version" : "0.1.1"
 , "main" : "./lib/irc"
 , "directories" : { "lib" : "./lib", "node_libraries" : "./node_libraries" }
 , "engines" : [ "node >=0.2.0" ]
